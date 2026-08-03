@@ -24,7 +24,7 @@ Developer with technical training in Software Develpment from the Federal Center
 
 <ul>
 <li>Education: Technical degree in Software Development (CEFET-MG), Currently pursuing a Bachelor's in Computer Science (UFLA)</li>
-<li>Experience: Developing software projects</li>
+<li>Experience: Full-Stack Developer for Comp Júnior.</li>
 <li>Seeking: Opportunities in the software development field to expand my knowledge</li>
 </ul>
 
